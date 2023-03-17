@@ -1,0 +1,30 @@
+/* Add application styles & imports to this file! */
+@import url('https://fonts.googleapis.com/css?family=Open+Sans&display=swap');
+
+html {
+  margin: 0;
+  padding: 0;
+  background-color: rgb(27, 26, 26);
+}
+
+body {
+  font-family: 'Montserrat', serif;
+  color: rgb(0, 0, 0);
+  margin: 20px;
+}
+
+h1 {
+  text-align: center;
+  font-size: 30px;
+  color: #ccc;
+}
+
+ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+* {
+  box-sizing: border-box;
+}
